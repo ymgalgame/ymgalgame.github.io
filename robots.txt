@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ymgalgame.github.io/sitemap.xml
